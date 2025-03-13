@@ -1,0 +1,4 @@
+Maintenant que vous savez travailler à partir d’un projet local et que vous
+maîtrisez le système de branches, voyons comment accéder à un dépôt
+distant et le copier en local.
+Je vous explique comme

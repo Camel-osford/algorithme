@@ -1,1 +1,7 @@
 cc
+Votre dossier n’a rien de nouveau, mais c’est normal . Vous avez
+pourtant bien initialisé votre dépôt Git. Un dossier caché .git a été créé !
+Vous pouvez l'afficher en allant dans Affichage => Éléments masqués.
+Pour les plus curieux d’entre vous, sachez que ce dossier caché contient
+tous les éléments non visibles de Git : la configuration, les “logs”, les
+branches...

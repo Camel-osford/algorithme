@@ -1,0 +1,3 @@
+La première ligne permet de vous positionner dans le dossier que vous
+venez de créer sur l’ordinateur. La seconde ligne va initialiser ce “simple
+dossier” comme un dépôt
